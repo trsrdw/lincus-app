@@ -1,0 +1,41 @@
+.bar-logo {
+    position: absolute;
+    left: 135px;
+    top: 15.33px;
+}
+
+.bar-link {
+    position: absolute;
+    right: 135px;
+    top: 29px;
+    li {
+        background: none;
+        border: none;
+        padding-inline: 30px;
+        font-weight: 400;
+        a{
+            color: #303030;
+            ;
+            text-decoration: none;
+        }
+        &:last-child{
+            a {
+                color: #E46810;
+            }
+            
+        }
+    }
+    
+}
+
+.menu-btn {
+    button {
+        color: #05657D;
+        border: transparent;
+        background: transparent;
+        box-shadow: none;
+        i {
+            font-size: 24px;
+        }
+    }
+}

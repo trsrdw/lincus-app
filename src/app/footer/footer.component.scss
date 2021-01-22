@@ -1,0 +1,228 @@
+.foot {
+    position: absolute;
+    min-height: 384.73px;
+    min-width: 100%;
+    background: #05657D;
+    top: 5257.5px;
+}
+
+.logo-foot {
+    position: absolute;
+    min-width: 200px;
+    min-height: 68.72px;
+    left: 185px;
+    top: 5315.07px;
+
+    background: url(../../assets/lincus2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.app-foot {
+    position: absolute;
+    left: 505px;
+    top: 5310.53px;
+    font-style: normal;
+    p {
+        font-weight: 700;
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    
+    ul {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 35px;
+        li {
+            background: none;
+            border: none;
+            padding: 0;
+        }
+    }
+    color: #FFFFFF;
+}
+
+.about-foot {
+    position: absolute;
+    left: 755px;
+    top: 5310.53px;
+    font-style: normal;
+    p {
+        font-weight: 700;
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    
+    ul {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 35px;
+        li {
+            background: none;
+            border: none;
+            padding: 0;
+        }
+    }
+    color: #FFFFFF;
+}
+
+.contact-foot {
+    position: absolute;
+    left: 1005px;
+    top: 5310.53px;
+    font-style: normal;
+    p {
+        font-weight: 700;
+        font-size: 24px;
+        margin-bottom: 30px;
+    }
+    
+    ul {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 35px;
+        li {
+            background: none;
+            border: none;
+            padding: 0;
+        }
+    }
+    color: #FFFFFF;
+}
+
+.available-foot {
+    position: absolute;
+    left: 1255px;
+    top: 5320.53px;
+    font-style: normal;
+    p {
+        font-weight: 400;
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    
+    ul {
+        line-height: 35px;
+        li {
+            background: none;
+            border: none;
+            padding: 0;
+            button {
+                padding: 0;
+                width: 142.6px;
+                height: 47px;
+                border-color: transparent;
+            }
+            #playstore-foot{
+                background: url(../../assets/playstore2.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+            }
+            #appstore-foot{
+                background: url(../../assets/appstore2.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+            }
+        }
+    }
+    color: #FFFFFF;
+}
+
+.lower-foot {
+    position: absolute;
+    min-width: 100%;
+    height: 70.84px;
+    left: 0;
+    top: 5571.5px;
+    background: #065A6F;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    color: #1499BA;
+    font-weight: 400;
+}
+
+
+.foot-sm {
+    //height: 384.73px;
+    min-width: 100%;
+    background: #05657D;
+}
+
+.logo-foot-sm {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.link-foot {
+    margin: 20px;
+    font-style: normal;
+    p {
+        font-weight: 700;
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    
+    ul {
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 35px;
+        li {
+            background: none;
+            border: none;
+            padding: 0;
+        }
+    }
+    color: #FFFFFF;
+}
+
+.available-foot-sm {
+    //text-align: right;
+    margin-left: 20px;
+    font-style: normal;
+    p {
+        font-weight: 400;
+        font-size: 14px;
+        margin-bottom: 17px;
+    }
+    
+    ul {
+        li {
+            background: none;
+            border: none;
+            padding: 0;
+            button {
+                padding: 0;
+                width: 142.6px;
+                height: 47px;
+                border-color: transparent;
+            }
+            #playstore-foot{
+                background: url(../../assets/playstore2.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+            }
+            #appstore-foot{
+                background: url(../../assets/appstore2.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-position: center;
+            }
+        }
+    }
+    color: #FFFFFF;
+}
+
+.lower-foot-sm {
+    min-width: 100%;
+    height: 70.84px;
+    background: #065A6F;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    color: #1499BA;
+    font-weight: 400;
+}
